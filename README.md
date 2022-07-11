@@ -17,3 +17,5 @@
 
 ## Technologies
 <img src="https://img.shields.io/badge/Spring-red"/> <img src="https://img.shields.io/badge/SpringBoot-blue"/> <img src="https://img.shields.io/badge/H2 DB-green"/>
+
+
