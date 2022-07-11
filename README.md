@@ -13,3 +13,7 @@
 * 섹션 7. 웹 계층 개발
 
 ## Languages
+<img src="https://img.shields.io/badge/java-red"/>
+
+## Technologies
+<img src="https://img.shields.io/badge/Spring-red"/> <img src="https://img.shields.io/badge/SpringBoot-blue"/> <img src="https://img.shields.io/badge/H2 DB-green"/>
