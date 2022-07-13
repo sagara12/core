@@ -19,7 +19,8 @@
 <img src="https://img.shields.io/badge/Spring-red"/> <img src="https://img.shields.io/badge/SpringBoot-blue"/> <img src="https://img.shields.io/badge/H2 DB-green"/>
 
 ## IDEA
-<img width="50%" src="https://user-images.githubusercontent.com/46039671/178254830-cc808a5d-5261-45df-bde2-33b37129af6b.png"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-6A5FBB?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+
 
 ## 🍯 기타
 > 왜 이 강의를 수강 했는가?
